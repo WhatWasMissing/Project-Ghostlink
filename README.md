@@ -1,6 +1,11 @@
 Built from the blackrock source, ghostlink wouldn't exist without hellomike's work, ive merely combined this with my own features.
 
-Project Ghostlink is a real-time memory (RTM) tool for PS3, via [PS3MAPI](https://github.com/aldostools/webMAN-MOD). 
+Project Ghostlink is a real-time memory (RTM) tool for PS3, via [PS3MAPI](https://github.com/aldostools/webMAN-MOD).
+## Android app (beta)
+
+Ghostlink now also has an Android app. It connects to the PS3 over your local network using webMAN PS3MAPI. The main cheats work, but the Android app is still in beta, so some features may be incomplete or may not work as expected yet.
+
+The Releases page includes separate ARM32 (`armeabi-v7a`) and ARM64 (`arm64-v8a`) APKs. Choose the build that matches your device; the Galaxy A20e uses ARM32 and the Galaxy S22 uses ARM64. The phone and PS3 must be on the same local network, and PS3MAPI must be enabled in webMAN MOD. 
 
 
 ## Requirements
