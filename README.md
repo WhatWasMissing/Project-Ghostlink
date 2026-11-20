@@ -34,7 +34,7 @@ The tool is currently in a release state but there are still a lot of things I'v
 
 ## Help and questions
 
-If you need help with Ghostlink or have a question, message me on Discord at `notarabian`.
+If you need help with Ghostlink or have a question, message me on Discord at `notarabian` or in-game at `high-scent05`.
 
 ## Disclaimer
 
