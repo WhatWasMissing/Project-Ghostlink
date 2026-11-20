@@ -1,7 +1,7 @@
 [![Total release downloads](https://img.shields.io/github/downloads/WhatWasMissing/Protect-Ghostlink/total?label=Total%20downloads)](https://github.com/WhatWasMissing/Protect-Ghostlink/releases)
 [![Latest release downloads](https://img.shields.io/github/downloads/WhatWasMissing/Protect-Ghostlink/latest/total?label=Latest%20release)](https://github.com/WhatWasMissing/Protect-Ghostlink/releases/latest)
 
-Built from the blackrock source, ghostlink wouldn't exist without hellomike's work, ive merely combined this with my own features.
+Built from a heavily edited blackrock source, ghostlink wouldn't exist without hellomike's work to base.
 
 Project Ghostlink is a real-time memory (RTM) tool for PS3, via [PS3MAPI](https://github.com/aldostools/webMAN-MOD).
 ## Android app (beta)
